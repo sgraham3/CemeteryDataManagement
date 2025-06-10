@@ -1,9 +1,6 @@
 title: Cemetery Data Management
 description: Port of the Cemetery Data Management Solution to QGIS.
-#remote_theme: carlosperate/jekyll-theme-rtd
-#remote_theme: allejo/jekyll-docs-theme@v1.0.0
-remote_theme: fernandopasik/jekyll-theme-material-docs
-
+remote_theme: carlosperate/jekyll-theme-rtd
 plugins:
    - jekyll-remote-theme
 
@@ -15,4 +12,4 @@ github_docs_folder: true
 sticky_navigation: true
 prev_next_buttons_location: bottom
 search_enabled: true
-#hljs_style: github-gist
+hljs_style: github-gist
