@@ -1,19 +1,13 @@
+title: Cemetery Data Management
+description: Port of the Cemetery Data Management Solution to QGIS.
 remote_theme: carlosperate/jekyll-theme-rtd
-#remote_theme: https://github.com/JV-conseil/jekyll-theme-read-the-docs
-#remote_theme: rundocs/jekyll-rtd-theme
-#site_author: Carlos Pereira Atencio
-#repo_url: 'https://github.com/sgraham3/CemeteryDataManagement'
-#edit_on_github: true
-#github_docs_folder: true
-#logo: 'https://your.url/image.png'
-#site_favicon: 'https://your.url/here.ico'
-#sticky_navigation: true
-#prev_next_buttons_location: None
-#prev_next_buttons_location: top
-#prev_next_buttons_location: bottom
-#prev_next_buttons_location: both
-#search_enabled: true
-#google_analytics: UA-XXXXX-Y
-#google_analytics_anonymize_ip: true
-# The highlight.js library provides 79 different colours for their syntax highlighting. The default is github-gist.
-#hljs_style: github-gist
+
+# Theme settings:
+site_author: Steven Graham
+repo_url: "https://github.com/carlosperate/jekyll-theme-rtd"
+edit_on_github: true
+github_docs_folder: true
+sticky_navigation: true
+prev_next_buttons_location: bottom
+search_enabled: true
+hljs_style: github-gist
