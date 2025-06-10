@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cemetery Data Management
-nav_order: 2
+nav_order: 1
 ---
 Cemetery Data Management can be used to organize foundational cemetery
 data in ArcGIS. This data can be loaded from existing source data or
