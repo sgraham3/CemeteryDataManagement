@@ -3,4 +3,5 @@ title: Cemetery Data Management
 description: Cemetery Data Management
 #show_downloads: true
 #google_analytics:
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+remote_theme: carlosperate/jekyll-theme-rtd
