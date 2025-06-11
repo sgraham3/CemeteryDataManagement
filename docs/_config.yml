@@ -1,7 +1,1 @@
-title: Cemetery Data Management
-#logo: /assets/img/logo.png
-description: Cemetery Data Management
-#show_downloads: true
-#google_analytics:
-#theme: jekyll-theme-minimal
-remote_theme: carlosperate/jekyll-theme-rtd
+theme: jekyll-theme-minimal
