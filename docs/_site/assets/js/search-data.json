@@ -1,0 +1,177 @@
+{"0": {
+    "doc": "Add cemeteries layer",
+    "title": "Update the map data sources to use the Cemeteries feature layer deployed with your solution.",
+    "content": "The Cemetery Management solution includes a Cemeteries feature layer. This layer is used to store cemetery subdivisions and related burial and ownership information. Before creating or loading cemetery data, update the map data sources to use the Cemeteries feature layer deployed with your solution. To update the map data sources, complete the following steps: . | In the Contents pane, right-click the Cemeteries layer and click Properties. | Select Source in the Layer Properties window. | Click Set Data Source. | Browse to and open the Cemeteries feature layer in your Portal’s contents. Select Cemeteries. | Click OK. | Repeat the above steps for the remaining map layers and tables, sourcing each layer with the Cemeteries layer of the same name. | . Note: Do not modify the layer or table names, as they will be used in subsequent tasks. ",
+    "url": "/getting-started/Add%20cemeteries%20layer.html#update-the-map-data-sources-to-use-the-cemeteries-feature-layer-deployed-with-your-solution",
+    
+    "relUrl": "/getting-started/Add%20cemeteries%20layer.html#update-the-map-data-sources-to-use-the-cemeteries-feature-layer-deployed-with-your-solution"
+  },"1": {
+    "doc": "Add cemeteries layer",
+    "title": "Add cemeteries layer",
+    "content": " ",
+    "url": "/getting-started/Add%20cemeteries%20layer.html",
+    
+    "relUrl": "/getting-started/Add%20cemeteries%20layer.html"
+  },"2": {
+    "doc": "Add reference layers (optional)",
+    "title": "Add relevant reference layers to the map.",
+    "content": "Existing aerial imagery, parcel, and CAD data may be useful when creating new cemetery data. Add these layers to the Cemetery Data Management map before creating cemetery data. Hardcopy cemetery maps can also be georeferenced and used to automate cemetery data. If your organization has scanned historical cemetery maps, you can add them to the map and use ArcGIS Pro’s georeferencing tools to begin automating your cemetery data. To georeference cemetery maps, complete the following steps: . | On the Map tab, in the Layer section, click Add Data. | Browse to the raster dataset you want to georeference. Select it and click OK. | Select the raster dataset in the Contents pane. | On the Imagery tab, click Georeference. | Use the tools on the Georeference tab to create control points, to connect your raster data to known positions in the map. | Review the control points and the errors. | Save the georeferencing result, when you are satisfied with the alignment. | . The georeferenced raster data can then be used in subsequent tasks to automate cemetery data. Click here for more information on georeferencing in ArcGIS Pro. The georeferenced raster data can then be used in subsequent tasks to automate cemetery data. Click here for more information on georeferencing in ArcGIS Pro. ",
+    "url": "/getting-started/Add%20reference%20layers%20(optional).html#add-relevant-reference-layers-to-the-map",
+    
+    "relUrl": "/getting-started/Add%20reference%20layers%20(optional).html#add-relevant-reference-layers-to-the-map"
+  },"3": {
+    "doc": "Add reference layers (optional)",
+    "title": "Add reference layers (optional)",
+    "content": " ",
+    "url": "/getting-started/Add%20reference%20layers%20(optional).html",
+    
+    "relUrl": "/getting-started/Add%20reference%20layers%20(optional).html"
+  },"4": {
+    "doc": "Blocks",
+    "title": "Blocks",
+    "content": "Existing aerial imagery, parcel, and CAD data may be useful when creating new cemetery data. Add these layers to the Cemetery Data Management map before creating cemetery data. Hardcopy cemetery maps can also be georeferenced and used to automate cemetery data. If your organization has scanned historical cemetery maps, you can add them to the map and use ArcGIS Pro's georeferencing tools to begin automating your cemetery data. To georeference cemetery maps, complete the following steps: . 1. On the Map tab, in the Layer section, click Add Data. 2. Browse to the raster dataset you want to georeference. Select it and click OK. 3. Select the raster dataset in the Contents pane. 4. On the Imagery tab, click Georeference. 5. Use the tools on the Georeference tab to create control points, to connect your raster data to known positions in the map. 6. Review the control points and the errors. 7. Save the georeferencing result, when you are satisfied with the alignment. The georeferenced raster data can then be used in subsequent tasks to automate cemetery data. Click here for more information on georeferencing in ArcGIS Pro. ",
+    "url": "/load-cemetery-data/Blocks.html",
+    
+    "relUrl": "/load-cemetery-data/Blocks.html"
+  },"5": {
+    "doc": "Blocks",
+    "title": "Blocks",
+    "content": "Assign IDs to blocks . The Sequential Numbering tool can be used to assign a sequential ID to an area. To assign sequential block IDs, complete the following steps: . | Optionally, in the Format text box, modify the format to which you want your attributes to conform. | In the Start value text box, type the first attribute value in the sequence (e.g., 1). | In the Increment text box, type the number by which each value in the sequence is incremented (e.g., 1). | Starting with the first block you want to increment from, draw a line across the blocks. Click and drag the line across the blocks you want to number. | Click the map to end the line and stop sketching. To finish the sketch, double-click or right-click and select Finish Sketch (F2). | Save your edits. | . ",
+    "url": "/create-cemetery-data/Blocks.html",
+    
+    "relUrl": "/create-cemetery-data/Blocks.html"
+  },"6": {
+    "doc": "Burials",
+    "title": "Burials",
+    "content": "Existing aerial imagery, parcel, and CAD data may be useful when creating new cemetery data. Add these layers to the Cemetery Data Management map before creating cemetery data. Hardcopy cemetery maps can also be georeferenced and used to automate cemetery data. If your organization has scanned historical cemetery maps, you can add them to the map and use ArcGIS Pro's georeferencing tools to begin automating your cemetery data. To georeference cemetery maps, complete the following steps: . 1. On the Map tab, in the Layer section, click Add Data. 2. Browse to the raster dataset you want to georeference. Select it and click OK. 3. Select the raster dataset in the Contents pane. 4. On the Imagery tab, click Georeference. 5. Use the tools on the Georeference tab to create control points, to connect your raster data to known positions in the map. 6. Review the control points and the errors. 7. Save the georeferencing result, when you are satisfied with the alignment. The georeferenced raster data can then be used in subsequent tasks to automate cemetery data. Click here for more information on georeferencing in ArcGIS Pro. ",
+    "url": "/load-burial-and-ownership-information/Burials.html",
+    
+    "relUrl": "/load-burial-and-ownership-information/Burials.html"
+  },"7": {
+    "doc": "Cemeteries",
+    "title": "Cemeteries",
+    "content": "Existing aerial imagery, parcel, and CAD data may be useful when creating new cemetery data. Add these layers to the Cemetery Data Management map before creating cemetery data. Hardcopy cemetery maps can also be georeferenced and used to automate cemetery data. If your organization has scanned historical cemetery maps, you can add them to the map and use ArcGIS Pro's georeferencing tools to begin automating your cemetery data. To georeference cemetery maps, complete the following steps: . 1. On the Map tab, in the Layer section, click Add Data. 2. Browse to the raster dataset you want to georeference. Select it and click OK. 3. Select the raster dataset in the Contents pane. 4. On the Imagery tab, click Georeference. 5. Use the tools on the Georeference tab to create control points, to connect your raster data to known positions in the map. 6. Review the control points and the errors. 7. Save the georeferencing result, when you are satisfied with the alignment. The georeferenced raster data can then be used in subsequent tasks to automate cemetery data. Click here for more information on georeferencing in ArcGIS Pro. ",
+    "url": "/load-cemetery-data/Cemeteries.html",
+    
+    "relUrl": "/load-cemetery-data/Cemeteries.html"
+  },"8": {
+    "doc": "Cemeteries",
+    "title": "Cemeteries",
+    "content": "Create cemeteries . To add a new cemetery, complete the following steps: . | Select the Cemeteries feature template. | Sketch the boundary of the cemetery, clicking at each vertex. To finish the sketch, double-click or right-click and select Finish Sketch (F2). | Repeat until all cemeteries have been added to the map. | Save your edits. | . Update cemetery attributes . To update cemetery attributes, complete the following steps: . | Select the cemeteries you want to update. | In the Attributes pane, click on a cemetery in the selection list. Select the cemetery group to update attributes for all selected cemeteries. | Update the attributes for the cemetery. | . Note: To format the cemetery operational days and hours, scroll to Operational Hours and enter the operational hours string into the cell according to the following standard: . For example, for a cemetery open Monday - Sunday from 7am to 7pm: Mo-Su (7:00-19:00) . Be sure to account for each day of the week using a 24 hour clock and the below weekday abbreviations: . Monday: Mo Tuesday: Tu Wednesday: We Thursday: Th Friday: Fr Saturday: Sa Sunday: Su . | Optionally, click on the Attachments tab for a cemetery to add a photo(s). | Click Apply. | Repeat for each cemetery. | Save your edits. | . ",
+    "url": "/create-cemetery-data/Cemeteries.html",
+    
+    "relUrl": "/create-cemetery-data/Cemeteries.html"
+  },"9": {
+    "doc": "Gravesites",
+    "title": "Gravesites",
+    "content": "Existing aerial imagery, parcel, and CAD data may be useful when creating new cemetery data. Add these layers to the Cemetery Data Management map before creating cemetery data. Hardcopy cemetery maps can also be georeferenced and used to automate cemetery data. If your organization has scanned historical cemetery maps, you can add them to the map and use ArcGIS Pro's georeferencing tools to begin automating your cemetery data. To georeference cemetery maps, complete the following steps: . 1. On the Map tab, in the Layer section, click Add Data. 2. Browse to the raster dataset you want to georeference. Select it and click OK. 3. Select the raster dataset in the Contents pane. 4. On the Imagery tab, click Georeference. 5. Use the tools on the Georeference tab to create control points, to connect your raster data to known positions in the map. 6. Review the control points and the errors. 7. Save the georeferencing result, when you are satisfied with the alignment. The georeferenced raster data can then be used in subsequent tasks to automate cemetery data. Click here for more information on georeferencing in ArcGIS Pro. ",
+    "url": "/create-cemetery-data/Garvesites.html",
+    
+    "relUrl": "/create-cemetery-data/Garvesites.html"
+  },"10": {
+    "doc": "Gravesites",
+    "title": "Gravesites",
+    "content": "Existing aerial imagery, parcel, and CAD data may be useful when creating new cemetery data. Add these layers to the Cemetery Data Management map before creating cemetery data. Hardcopy cemetery maps can also be georeferenced and used to automate cemetery data. If your organization has scanned historical cemetery maps, you can add them to the map and use ArcGIS Pro's georeferencing tools to begin automating your cemetery data. To georeference cemetery maps, complete the following steps: . 1. On the Map tab, in the Layer section, click Add Data. 2. Browse to the raster dataset you want to georeference. Select it and click OK. 3. Select the raster dataset in the Contents pane. 4. On the Imagery tab, click Georeference. 5. Use the tools on the Georeference tab to create control points, to connect your raster data to known positions in the map. 6. Review the control points and the errors. 7. Save the georeferencing result, when you are satisfied with the alignment. The georeferenced raster data can then be used in subsequent tasks to automate cemetery data. Click here for more information on georeferencing in ArcGIS Pro. ",
+    "url": "/load-cemetery-data/Garvesites.html",
+    
+    "relUrl": "/load-cemetery-data/Garvesites.html"
+  },"11": {
+    "doc": "Lots",
+    "title": "Lots",
+    "content": "Create lots from blocks . Lots are typically subdivisions of cemetery blocks. To use block boundaries as a starting point for creating lots, complete the following steps: . | Select the blocks you want to create lots from. | Click the Cemetery Data Management map view tab to activate it. | On the ribbon, click the Map or Edit tab. | In the Clipboard section, click Copy, then click Paste Special. | From the Layer drop-down, select Lots. Keep source attributes checked. | Click OK. Close the Modify Features pane if necessary. | Toggle off the Blocks layer visibility. | Save your edits. | . Split lots . The Split tool can be used to split lots into two or more features. For more info on the Split tool, click here. To split a lot, complete the following: . | Select a lot. | With the Split tool activated, draw a continuous line that crosses or touches the block in at least two places. | . Note: By default, the line tool is automatically active. To draw a curvilinear line, click an arc segment tool on the construction toolbar. | To finish the line and split the lot, click Finish (F2). | Once you have finished splitting the lot features, save your edits. | . Divide lots . The Divide tool can be used to divide lots into multiple features comprising equal areas, proportional areas, or equal widths. For more info on the Divide tool, click here. To divide a lot, complete the following steps: . | Select a lot. | Select the type of Method for dividing the lot. | In the Direction section, click a direction tool to specify the angular direction and starting edge. | In the Values section, specify the number of parts, and area or width if necessary. | If prompted, choose whether or not to distribute the remaining area equally or merge remaining area. | Review your settings and click Divide. | Save your edits. | . Assign an ID to each cemetery lot . The Sequential Numbering tool can be used to assign a sequential ID to an area. To assign sequential lot IDs, complete the following steps: . | Optionally, in the Format text box, modify the format to which you want your attributes to conform. | In the Start value text box, type the first attribute value in the sequence (e.g., 1). | In the Increment text box, type the number by which each value in the sequence is incremented (e.g., 1). | Starting with the first lot you want to increment from, draw a line across the lots. Click and drag the line across the lots you want to number. | Click the map to end the line and stop sketching. To finish the sketch, double-click or right-click and select Finish Sketch (F2). | Save your edits. | . ",
+    "url": "/create-cemetery-data/Lots.html",
+    
+    "relUrl": "/create-cemetery-data/Lots.html"
+  },"12": {
+    "doc": "Lots",
+    "title": "Lots",
+    "content": "Existing aerial imagery, parcel, and CAD data may be useful when creating new cemetery data. Add these layers to the Cemetery Data Management map before creating cemetery data. Hardcopy cemetery maps can also be georeferenced and used to automate cemetery data. If your organization has scanned historical cemetery maps, you can add them to the map and use ArcGIS Pro's georeferencing tools to begin automating your cemetery data. To georeference cemetery maps, complete the following steps: . 1. On the Map tab, in the Layer section, click Add Data. 2. Browse to the raster dataset you want to georeference. Select it and click OK. 3. Select the raster dataset in the Contents pane. 4. On the Imagery tab, click Georeference. 5. Use the tools on the Georeference tab to create control points, to connect your raster data to known positions in the map. 6. Review the control points and the errors. 7. Save the georeferencing result, when you are satisfied with the alignment. The georeferenced raster data can then be used in subsequent tasks to automate cemetery data. Click here for more information on georeferencing in ArcGIS Pro. ",
+    "url": "/load-cemetery-data/Lots.html",
+    
+    "relUrl": "/load-cemetery-data/Lots.html"
+  },"13": {
+    "doc": "Owners",
+    "title": "Owners",
+    "content": "Existing aerial imagery, parcel, and CAD data may be useful when creating new cemetery data. Add these layers to the Cemetery Data Management map before creating cemetery data. Hardcopy cemetery maps can also be georeferenced and used to automate cemetery data. If your organization has scanned historical cemetery maps, you can add them to the map and use ArcGIS Pro's georeferencing tools to begin automating your cemetery data. To georeference cemetery maps, complete the following steps: . 1. On the Map tab, in the Layer section, click Add Data. 2. Browse to the raster dataset you want to georeference. Select it and click OK. 3. Select the raster dataset in the Contents pane. 4. On the Imagery tab, click Georeference. 5. Use the tools on the Georeference tab to create control points, to connect your raster data to known positions in the map. 6. Review the control points and the errors. 7. Save the georeferencing result, when you are satisfied with the alignment. The georeferenced raster data can then be used in subsequent tasks to automate cemetery data. Click here for more information on georeferencing in ArcGIS Pro. ",
+    "url": "/load-burial-and-ownership-information/Owners.html",
+    
+    "relUrl": "/load-burial-and-ownership-information/Owners.html"
+  },"14": {
+    "doc": "Sections",
+    "title": "Populate cemetery name and facility ID",
+    "content": "Assign cemetery names and facility IDs to each section . To populate cemetery names and facility IDs on each section, complete the following steps: . | Select the sections you want to update. | In the Attributes pane, click on a section in the selection list, or select the section group to update all selected sections. | Update the Cemetery and Facility ID fields. | Click Apply. | Repeat for each section. | Save your edits. | . ",
+    "url": "/create-cemetery-data/Sections.html#populate-cemetery-name-and-facility-id",
+    
+    "relUrl": "/create-cemetery-data/Sections.html#populate-cemetery-name-and-facility-id"
+  },"15": {
+    "doc": "Sections",
+    "title": "Assign section IDs",
+    "content": "Assign an ID to each cemetery section . The Sequential Numbering tool can be used to assign a sequential ID to an area. To assign sequential section IDs, complete the following steps: . | Optionally, in the Format text box, modify the format to which you want your attributes to conform. | In the Start value text box, type the first attribute value in the sequence (e.g., 1). | In the Increment text box, type the number by which each value in the sequence is incremented (e.g., 1). | Starting with the first section you want to increment from, draw a line across the sections. Click and drag the line across the features you want to edit. | Click the map to end the line and stop sketching. To finish the sketch, double-click or right-click and select Finish Sketch (F2). | Save your edits. | . ",
+    "url": "/create-cemetery-data/Sections.html#assign-section-ids",
+    
+    "relUrl": "/create-cemetery-data/Sections.html#assign-section-ids"
+  },"16": {
+    "doc": "Sections",
+    "title": "Sections",
+    "content": "Create cemetery sections . To create cemetery sections, complete the following steps: . | Select the Sections feature template. | Sketch the boundary of a section, clicking at each vertex. To finish the sketch, double-click or right-click and select Finish Sketch (F2). | Repeat until all sections have been added to the map. | Save your edits. ",
+    "url": "/create-cemetery-data/Sections.html",
+    
+    "relUrl": "/create-cemetery-data/Sections.html"
+  },"17": {
+    "doc": "Sections",
+    "title": "Sections",
+    "content": "Existing aerial imagery, parcel, and CAD data may be useful when creating new cemetery data. Add these layers to the Cemetery Data Management map before creating cemetery data. Hardcopy cemetery maps can also be georeferenced and used to automate cemetery data. If your organization has scanned historical cemetery maps, you can add them to the map and use ArcGIS Pro's georeferencing tools to begin automating your cemetery data. To georeference cemetery maps, complete the following steps: . 1. On the Map tab, in the Layer section, click Add Data. 2. Browse to the raster dataset you want to georeference. Select it and click OK. 3. Select the raster dataset in the Contents pane. 4. On the Imagery tab, click Georeference. 5. Use the tools on the Georeference tab to create control points, to connect your raster data to known positions in the map. 6. Review the control points and the errors. 7. Save the georeferencing result, when you are satisfied with the alignment. The georeferenced raster data can then be used in subsequent tasks to automate cemetery data. Click here for more information on georeferencing in ArcGIS Pro. ",
+    "url": "/load-cemetery-data/Sections.html",
+    
+    "relUrl": "/load-cemetery-data/Sections.html"
+  },"18": {
+    "doc": "Understanding Cemetery Data Management",
+    "title": "Use Cemetery Data Management to load, create, and edit foundational cemetery data used in applications that are deployed with the Solution.",
+    "content": "Cemetery Data Management can be used to organize foundational cemetery data in ArcGIS. This data can be loaded from existing source data or digitized from existing cemetery maps. Cemeteries are typically subdivided into a series of areas (for example, sections, blocks, lots, and gravesites). Burial and/or ownership information is commonly associated with a given gravesite. The solution uses five layers to represent the subdivisions of a cemetery: . - Cemeteries . - Sections . - Blocks . - Lots . - Gravesites . Related burial and ownership information is stored in two tables: . - Burials . - Owners . The following task groups are organized to help you load existing source data or digitize cemetery data using hardcopy maps. - Create cemetery data will guide you through creating new data using existing hardcopy maps or related source information. - Load cemetery data will guide you through loading existing GIS data into the layers provided. - Load burial and ownership information will guide you through loading existing burial and ownership record information into the tables provided. ",
+    "url": "/getting-started/Understanding%20Cemetery%20Data%20Management.html#use-cemetery-data-management-to-load-create-and-edit-foundational-cemetery-data-used-in-applications-that-are-deployed-with-the-solution",
+    
+    "relUrl": "/getting-started/Understanding%20Cemetery%20Data%20Management.html#use-cemetery-data-management-to-load-create-and-edit-foundational-cemetery-data-used-in-applications-that-are-deployed-with-the-solution"
+  },"19": {
+    "doc": "Understanding Cemetery Data Management",
+    "title": "Understanding Cemetery Data Management",
+    "content": " ",
+    "url": "/getting-started/Understanding%20Cemetery%20Data%20Management.html",
+    
+    "relUrl": "/getting-started/Understanding%20Cemetery%20Data%20Management.html"
+  },"20": {
+    "doc": "Load Cemetery Data",
+    "title": "Load Cemetery Data",
+    "content": " ",
+    "url": "/load-cemetery-data/",
+    
+    "relUrl": "/load-cemetery-data/"
+  },"21": {
+    "doc": "Getting Started",
+    "title": "Getting Started",
+    "content": " ",
+    "url": "/getting-started/",
+    
+    "relUrl": "/getting-started/"
+  },"22": {
+    "doc": "Create Cemetery Data",
+    "title": "Create Cemetery Data",
+    "content": " ",
+    "url": "/create-cemetery-data/",
+    
+    "relUrl": "/create-cemetery-data/"
+  },"23": {
+    "doc": "Home",
+    "title": "Home",
+    "content": "This is a bare-minimum template to create a Jekyll site that uses the Just the Docs theme. You can easily set the created site to be published on GitHub Pages – the README file explains how to do that, along with other details. If Jekyll is installed on your computer, you can also build and preview the created site locally. This lets you test changes before committing them, and avoids waiting for GitHub Pages.1 And you will be able to deploy your local build to a different platform than GitHub Pages. More specifically, the created site: . | uses a gem-based approach, i.e. uses a Gemfile and loads the just-the-docs gem | uses the GitHub Pages / Actions workflow to build and publish the site on GitHub Pages | . Other than that, you’re free to customize sites that you create with this template, however you like. You can easily change the versions of just-the-docs and Jekyll it uses, as well as adding further plugins. Browse our documentation to learn more about how to use this theme. To get started with creating a site, simply: . | click “use this template” to create a GitHub repository | go to Settings &gt; Pages &gt; Build and deployment &gt; Source, and select GitHub Actions | . If you want to maintain your docs in the docs directory of an existing project repo, see Hosting your docs from an existing project repo in the template README. | It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub. &#8617; . | . ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"24": {
+    "doc": "Load Burial and Ownership Information",
+    "title": "Load Burial and Ownership Information",
+    "content": " ",
+    "url": "/load-burial-and-ownership-information/",
+    
+    "relUrl": "/load-burial-and-ownership-information/"
+  }
+}
