@@ -1,8 +1,3 @@
----
-title: Sections
-parent: Create Cemetery Data
-nav_order: 3
----
 Existing aerial imagery, parcel, and CAD data may be useful when
 creating new cemetery data. Add these layers to the Cemetery Data
 Management map before creating cemetery data.
