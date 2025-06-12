@@ -1,8 +1,3 @@
----
-title: Add reference layers (optional)
-parent: Getting Started
-nav_order: 4
----
 Existing aerial imagery, parcel, and CAD data may be useful when
 creating new cemetery data. Add these layers to the Cemetery Data
 Management map before creating cemetery data.
