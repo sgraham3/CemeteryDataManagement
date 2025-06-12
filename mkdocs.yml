@@ -1,0 +1,27 @@
+site_name: Cemetery Data Management
+site_url: https://sgraham3.github.io/CemeteryDataManagement/
+theme:
+  name: readthedocs
+  highlightjs: true
+
+nav:
+    - Home: index.md
+    - Getting Started:
+        - Understanding Cemetery Data Management: Getting Started\Understanding Cemetery Data Management.md
+        - Add cemeteries layer: Getting Started\Add cemeteries layer.md
+        - Add reference layers (optional): Getting Started\Add reference layers (optional).md
+    - Create Cemetery Data:
+        - Cemeteries: Create Cemetery Data\Cemeteries.md
+        - Sections: Create Cemetery Data\Sections.md
+        - Blocks: Create Cemetery Data\Blocks.md
+        - Lots: Create Cemetery Data\Lots.md
+        - Gravesites: Create Cemetery Data\Gravesites.md
+    - Load Cemetery Data:
+        - Cemeteries: Create Cemetery Data\Cemeteries.md
+        - Sections: Create Cemetery Data\Sections.md
+        - Blocks: Create Cemetery Data\Blocks.md
+        - Lots: Create Cemetery Data\Lots.md
+        - Gravesites: Create Cemetery Data\Gravesites.md
+    - Load Burial and Ownership Information:
+        - Burials : Load Burial and Ownership Information\Burials.md
+        - Owners : Load Burial and Ownership Information\Owners.md
