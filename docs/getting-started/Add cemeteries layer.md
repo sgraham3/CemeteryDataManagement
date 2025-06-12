@@ -1,8 +1,3 @@
----
-title: Add cemeteries layer
-parent: Getting Started
-nav_order: 3
----
 The Cemetery Management solution includes a Cemeteries feature layer.
 This layer is used to store cemetery subdivisions and related burial and
 ownership information.
