@@ -1,3 +1,8 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
 Cemetery Data Management can be used to organize foundational cemetery
 data in ArcGIS. This data can be loaded from existing source data or
 digitized from existing cemetery maps.
