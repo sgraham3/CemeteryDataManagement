@@ -1,0 +1,104 @@
+- 	modified:   README.md
+- 	modified:   CemeteryDataManagement.gpkg 	modified:   CemeteryDataManagement.qgz
+- Delete mkdocs.yml
+- Update and rename Add reference layers (optional).md to add-reference-layers(optional).md
+- Update and rename Understanding Cemetery Data Management.md to understanding-cemetery-data-management.md
+- Update and rename Add cemeteries layer.md to add-cemeteries-layer.md
+- Update _config.yml
+- Update Understanding Cemetery Data Management.md
+- Update index.md
+- Delete docs/create-cemetery-data/index.md
+- Update Sections.md
+- Update Lots.md
+- Update Cemeteries.md
+- Update Blocks.md
+- Delete docs/getting-started/index.md
+- Update Add reference layers (optional).md
+- Update Add cemeteries layer.md
+- Update Understanding Cemetery Data Management.md
+- Update _config.yml
+- Update _config.yml
+- Create _config.yml
+- Delete .github/workflows directory
+- Update documentation.yml
+- Create documentation.yml
+- Add files via upload
+- Add files via upload
+- Delete docs/_config.yml
+- Delete docs/index.md
+- Create index.md
+- Create _config.yml
+- Delete docs directory
+- Update _config.yml
+- Delete .github/workflows directory
+- Create pages.yml
+- Delete .github/workflows
+- Create workflows
+- Delete docs/workflows directory
+- Add files via upload
+- Add files via upload
+- Delete docs directory
+- Add files via upload
+- Delete docs directory
+- Create _config.yml
+- Delete _config.yml
+- Delete index.md
+- Create index.md
+- Delete docs/_config.yml
+- Create _config.yml
+- Create _config.yml
+- Delete docs/_config.yml
+- Update _config.yml
+- Update _config.yml
+- Update _config.yml
+- Update _config.yml
+- Add files via upload
+- Create _config.yml
+- Delete index.md
+- Delete _config.yml
+- Add files via upload
+- Add files via upload
+- Delete docs
+- Create docs
+- Delete docs/_config.yml
+- Delete docs/index.md
+- Delete docs/Load Cemetery Data directory
+- Delete docs/Load Burial and Ownership Information directory
+- Delete docs/Getting Started directory
+- Delete docs/Create Cemetery Data directory
+- Update Understanding Cemetery Data Management.md
+- Create index.md
+- Update index.md
+- Create index.md
+- Create index.md
+- Update Add reference layers (optional).md
+- Update Add cemeteries layer.md
+- Update Add reference layers (optional).md
+- Update Understanding Cemetery Data Management.md
+- Update _config.yml
+- Update _config.yml
+- Update _config.yml
+- Update Understanding Cemetery Data Management.md
+- Update index.md
+- Create index.md
+- Update _config.yml
+- Add files via upload
+- Delete docs/Create_Cemetery_Data directory
+- Update _config.yml
+- Update _config.yml
+- Update _config.yml
+- Update _config.yml
+- Update _config.yml
+- Update _config.yml
+- Add files via upload
+- Delete docs/Load Cemetery Data directory
+- Delete docs/Load Burial and Ownership Information directory
+- Delete docs/Getting Started directory
+- Delete docs/Create Cemetery Data directory
+- Add files via upload
+- Update _config.yml
+- Update index.md
+- Create _config.yml
+- Create index.md
+- Add files via upload
+- Initial commit
